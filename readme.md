@@ -1,12 +1,10 @@
 # Sobre
-========
 
 	Projeto de integração de dados do site books.toscrap
 
 	Este projeto tem como objetivo extrair os dados do site books.toscrap de forma automática e programada, e inserir em um Data Warehouse para futuras análises com ferramentas BI ou IA.
 
 # Tabela de Conteúdos
-======================
 
 	# Sobre
 	# Tabela de Conteúdos
@@ -20,12 +18,10 @@
 	# Conclusão
 
 # Instalação
-=============
 
 	Para a reprodução deste projeto, não é necessária a instalação, porém, é preciso que todos os requisitos tenham sido verificados e instalados no computador. Este projeto foi realizado utilizando o Pop! OS, uma distribuição linux baseada em Debian. Caso esteja utilizando outro sistema operacional, será necessário realizar algumas modificações no arquivo extrair_dados_books_toscrape.py e criar um novo arquivo de script.
 
 # Como Usar
-============
 
 	# Pré-requisitos
 	
@@ -74,25 +70,21 @@
 	Conforme manual, após esta execução dos passos o DW estará carregado para consultas.
 	
 # Status do Projeto
-======================
 	
 	Este projeto foi finalizado na sua primeira versão, poderá ainda ser melhorado em suas próximas versões.
 	
 # Autor
-======================
 
 	Este projeto foi realizado pelo proprietário desta conta do GitHub, Welden Aguiar.
 	Está permitida a utilização para fins de consulta e aprendizado.
 	O projeto foi realizado entre as datas 05/12/2021 até 03/01/2022, com as pausas de recesso de fim de ano.
 	
 # Agradecimentos
-======================
 
 	Agradeço a minha esposa pela compreensão e paciencia durante o planejamento e desenvolvimento deste projeto. Agradeço aos diversos sites de documentação e tutoriais que permitiram obter conhecimento durante a execuação do projeto.
 	
 
-# Status do Projeto
-======================
+# Conclusão
 	
 	Ao longo da implementação deste projeto tive diversos desafíos e dúvidas que foram vencidas com muita pesquisa e dedicação. Ter diversos materiais tanto em inglês quanto em português me ajudaram muito a finalizar o projeto e executar o planejado. Neste projeto coloquei em prática meus conhecimentos com python e banco de dados. Aprendi a utilizar o PostgreSQL e algumas bibliotecas python como o Apache Airflow. Finalizar este projeto agregou bastante na minha experiência profissional e abriu meus olhos para muitas possibilidades. Este projeto será o primeiro projeto do meu portifólio para a carreira de Engenheiro de Dados.	
 	
